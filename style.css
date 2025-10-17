@@ -6,7 +6,7 @@
 
     .menu li {
       display: inline-block;
-      margin-right: 10px; /* Aggiunge spazio tra le voci */
+      margin-right: 10px; 
     }
 
     .menu li a {
