@@ -1,0 +1,20 @@
+.menu {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .menu li {
+      display: inline-block;
+      margin-right: 10px; /* Aggiunge spazio tra le voci */
+    }
+
+    .menu li a {
+      display: block;
+      padding: 10px;
+      text-decoration: none;
+    }
+
+    .hel {
+    font-family: Helvetica, sans-serif;
+  }
