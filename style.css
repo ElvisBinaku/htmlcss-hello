@@ -18,3 +18,8 @@
     .hel {
     font-family: Helvetica neue light, sans-serif;
   }
+
+  img {
+      max-width: 85%;
+      height: auto;
+    }
